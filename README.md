@@ -24,7 +24,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thisuka&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TNkodi&show_icons=true&theme=radical)
 
 ---
 
