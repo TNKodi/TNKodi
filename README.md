@@ -6,9 +6,8 @@
 ---
 
 ## 🚀 Projects
-- 🔧 [Bin Picking Robot](https://github.com/your_project_link) — Industrial part picking using closed-loop steppers and vision.
-- 🧠 [Lightweight L-Bend Segmentation](https://github.com/your_project_link) — Fast-SCNN-based segmentation optimized for Jetson Nano.
-- 📡 [IoT Teddy Bear](https://github.com/your_project_link) — Health monitoring device for kids.
+🧠 [Leaf Detection Model](https://github.com/TNKodi/Leaf-Detection.git) — detect and classify leaves using a deep learning model
+
 
 ---
 
